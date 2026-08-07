@@ -127,7 +127,5 @@ http://127.0.0.1:8000
 **Habeeb Urooj**
 
 LinkedIn:
-(Add LinkedIn URL)
+https://www.linkedin.com/in/habeeb-urooj-177b40389
 
-GitHub:
-(Add GitHub URL)
